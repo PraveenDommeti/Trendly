@@ -9,8 +9,11 @@ Trendly is revolutionizing the fashion social commerce landscape in India by emp
 The Problem We Solve:-
 
   Fragmented Discovery:  Users spend hours searching across multiple platforms to find items seen on influencers or friends. 
+
   Limited Creator Monetization:  99% of fashion enthusiasts struggle to monetize their content without traditional affiliate marketing. 
+
    Trust Barriers:  Social commerce adoption is hindered by a lack of authentic reviews and trust in products.
+
    High Acquisition Costs:  Acquiring new customers is increasingly expensive for brands.
 
 ## Trendly's Solution
@@ -24,7 +27,7 @@ Trendly unifies social fashion expression with seamless commerce, empowering eve
 
 ---
 
-## 🧠 Our Innovation Edge: Model Context Protocol (MCP) & Hedera Web3 Integration
+## Our Innovation Edge: Model Context Protocol (MCP) & Hedera Web3 Integration
 
 At the heart of Trendly's advanced capabilities is our  "Model Context Protocol (MCP) ", a sophisticated system that analyzes the unique characteristics of a user's style, body, and outfit context. This powers our next-generation features, particularly our Hedera Web3 integrations.
 
