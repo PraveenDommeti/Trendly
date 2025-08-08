@@ -8,9 +8,9 @@ Trendly is revolutionizing the fashion social commerce landscape in India by emp
 
 The Problem We Solve:-
 
-   *Fragmented Discovery:  Users spend hours searching across multiple platforms to find items seen on influencers or friends. 
-*    Limited Creator Monetization:  99% of fashion enthusiasts struggle to monetize their content without traditional affiliate marketing. 
-*    Trust Barriers:  Social commerce adoption is hindered by a lack of authentic reviews and trust in products.
+  Fragmented Discovery:  Users spend hours searching across multiple platforms to find items seen on influencers or friends. 
+  Limited Creator Monetization:  99% of fashion enthusiasts struggle to monetize their content without traditional affiliate marketing. 
+   Trust Barriers:  Social commerce adoption is hindered by a lack of authentic reviews and trust in products.
    High Acquisition Costs:  Acquiring new customers is increasingly expensive for brands.
 
 ## Trendly's Solution
@@ -28,7 +28,7 @@ Trendly unifies social fashion expression with seamless commerce, empowering eve
 
 At the heart of Trendly's advanced capabilities is our  "Model Context Protocol (MCP) ", a sophisticated system that analyzes the unique characteristics of a user's style, body, and outfit context. This powers our next-generation features, particularly our Hedera Web3 integrations.
 
-### 1. 🔍 AI-Powered Smart Tagging & Contextual Recommendations (MCP in Action!)
+### 1.  AI-Powered Smart Tagging & Contextual Recommendations (MCP in Action!)
 
 Our MCP drives the intelligence behind our    "AI Analyze & Tag"    feature.
 *    How it Works:    When a user uploads an outfit photo, the MCP, combined with advanced visual AI analysis, suggests precise or highly similar products from Trendly's internal catalog. If an exact match isn't found, it leverages the    model's context    (e.g., body type, inferred style preferences from their 'My Style Profile') and the    outfit's context    (e.g., 'party wear,' 'casual day out') to recommend visually similar items that would genuinely flatter the model and fit the outfit's vibe.
