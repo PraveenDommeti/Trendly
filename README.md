@@ -21,8 +21,11 @@ The Problem We Solve:-
 Trendly unifies social fashion expression with seamless commerce, empowering every user to monetize their style while building India's largest fashion community. 
 
  Integrated Social + Shopping:    Effortlessly post outfit photos and directly tag products you're wearing or recommending, transforming every look into a shoppable moment. 
+
  Democratized Monetization:    Any user, regardless of follower count, can earn commission from sales generated through their tagged products. 
+
  Mini-Storefronts:    Creators, fashion enthusiasts, and brands can set up personalized mini-storefronts to showcase curated products and collections.
+
  Gamified Experience:    Earn points for participation, maintain 'streaks' for consistent posting, and climb 'Trendsetter leaderboards' based on influence and sales. 
 
 ---
