@@ -1,0 +1,7 @@
+ALTER TABLE products
+ADD COLUMN fit TEXT,
+ADD COLUMN fabric_texture TEXT,
+ADD COLUMN rise TEXT,
+ADD COLUMN pleats TEXT,
+ADD COLUMN hem_style TEXT,
+ADD COLUMN details TEXT[];
